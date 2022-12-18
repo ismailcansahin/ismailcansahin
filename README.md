@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Türkiye</h3>
 
 <p align="left">
-<img align="center" src="img/programmer.gif" alt="ismailcansahin"/>
+<img align="center" src="img/programmer.gif" height="250" width="auto" alt="ismailcansahin"/>
 </p>
 
 
