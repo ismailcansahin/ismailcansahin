@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **on QR Code Menu Project (with Dashboard)**
+- 🔭 I’m currently working **on QR Code Menu Project (with Dashboard)**
 
 - 🌱 I’m currently learning **Javascript**
 
@@ -14,9 +14,8 @@
 
 - 💬 Ask me about **Anythink**
 
-- 📫 How to reach me **ismailcnshn@gmail.com**
+- 📫 How to reach me: **ismailcnshn@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
 
 
 <br>
