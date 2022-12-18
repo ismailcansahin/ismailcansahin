@@ -26,7 +26,7 @@
 </a>   
 </p>
 
-<br>
+
 
 ## Languages and Tools
 <p align="left"> 
@@ -36,9 +36,8 @@
 <br>
   
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailcansahin&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=ismailcansahin&theme=default&hide_border=false&include_all_commits=true&count_private=true)
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailcansahin&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
  
   
  
