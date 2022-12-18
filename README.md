@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm İsmail Can ŞAHİN</h1>
 <h3 align="center">A passionate Full Stack Developer from Türkiye</h3>
 
+<p align="left">
+<img align="center" src="img/programmer.gif" alt="ismailcansahin"/>
+</p>
+
+
 - 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **ismailcnshn@gmail.com**
