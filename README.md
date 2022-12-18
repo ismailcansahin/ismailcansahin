@@ -6,9 +6,17 @@
 </p>
 
 
+- 🔭 I’m currently working on **on QR Code Menu Project (with Dashboard)**
+
 - 🌱 I’m currently learning **Javascript**
 
+- 👨‍💻 All of my projects are available at [https://github.com/ismailcansahin?tab=repositories](https://github.com/ismailcansahin?tab=repositories)
+
+- 💬 Ask me about **Anythink**
+
 - 📫 How to reach me **ismailcnshn@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 
 <br>
