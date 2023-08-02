@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İsmail Can ŞAHİN</h1>
-<h3 align="center">A passionate Front-End Developer and little bit Back-End Developer from Türkiye</h3>
+<h3 align="center">A passionate Front-End Developer from Türkiye</h3>
 
 <p align="left">
 <img align="center" src="img/programmer.gif" height="250" width="397" alt="ismailcansahin"/>
