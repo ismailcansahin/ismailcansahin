@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 I’m currently working **on QR Code Menu Project (with Dashboard)**
+- 🔭 I’m currently working **on New Project**
 
 - 🌱 I’m currently learning **Javascript**
 
